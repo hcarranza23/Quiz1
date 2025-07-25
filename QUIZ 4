@@ -1,0 +1,107 @@
+¿Qué es el machine learning?
+A. Un conjunto de técnicas que permiten a las máquinas aprender a partir de datos
+B. Un conjunto de técnicas que permiten a las máquinas procesar grandes cantidades de datos
+C. Un conjunto de técnicas que permiten a las máquinas interpretar datos
+Respuesta: A: Un conjunto de técnicas que permiten a las máquinas aprender a partir de datos
+
+¿Qué es un vector en matemáticas?
+A. Una cantidad escalar
+B. Una cantidad con dirección y magnitud
+C. Una función matemática
+Respuesta: B: Una cantidad con dirección y magnitud
+
+¿Qué es una matriz en matemáticas?
+A. Una cantidad escalar
+B. Una cantidad con dirección y magnitud
+C. Un arreglo n-dimensional de elementos numéricos
+Respuesta: C: Un arreglo n-dimensional de elementos numéricos
+
+¿Cuál es la operación matricial que representa la transposición de una matriz A?
+A. A.T
+B. A**-1
+C. A**2
+Respuesta: A: A.T
+
+Si quisiéramos multiplicar 'A' y 2 ¿podríamos realizar la operación?
+A. Sí
+B. No
+Respuesta: A: Sí
+
+¿Qué es una función matemática?
+A. Un conjunto de reglas que asignan a cada elemento de un conjunto de entrada un único elemento de un conjunto de salida
+B. Un conjunto de números
+C. Un conjunto de vectores
+Respuesta: A: Un conjunto de reglas que asignan a cada elemento de un conjunto de entrada un único elemento de un conjunto de salida
+
+¿Qué es una función lineal en matemáticas?
+A. Una función que tiene la forma f(x) = ax + b
+B. Una función que tiene la forma f(x) = ax**2 + bx + c
+C. Una función que tiene la forma f(x) = e**x
+Respuesta: A: Una función que tiene la forma f(x) = a*x + b
+
+¿Qué es una función exponencial en matemáticas?
+A. Una función que tiene la forma f(x) = ax + b
+B. Una función que tiene la forma f(x) = ax**2 + bx + c
+C. Una función que tiene la forma f(x) = ex
+Respuesta: C: Una función que tiene la forma f(x) = ex
+
+¿Qué es la regresión lineal en el contexto del machine learning?
+A. Un algoritmo de clasificación que utiliza una función lineal para separar dos clases de datos
+B. Un algoritmo que encuentra la mejor línea recta que describe la relación entre dos variables
+C. Un algoritmo que utiliza una función exponencial para predecir los valores de una variable a partir de otra variable
+Respuesta: B: Un algoritmo que encuentra la mejor línea recta que describe la relación entre dos variables
+
+¿Cuáles son los tres tipos principales de machine learning?
+A. Aprendizaje supervisado, aprendizaje no supervisado, aprendizaje reforzado
+B. Aprendizaje no supervisado, aprendizaje semisupervisado, aprendizaje supervisado
+C. Aprendizaje no supervisado, aprendizaje supervisado, aprendizaje profundo
+Respuesta: A: Aprendizaje supervisado, aprendizaje no supervisado, aprendizaje reforzado
+
+¿Qué es el aprendizaje supervisado?
+A. Un tipo de aprendizaje en el que la máquina aprende a partir de datos etiquetados
+B. Un tipo de aprendizaje en el que la máquina aprende a partir de datos no etiquetados
+C. Un tipo de aprendizaje en el que la máquina aprende a partir de datos generados aleatoriamente
+Respuesta: A: Un tipo de aprendizaje en el que la máquina aprende a partir de datos etiquetados
+
+¿Qué es una función de pérdida?
+A. Una función que mide la discrepancia entre las predicciones de la máquina y los valores reales
+B. Una función que mide la complejidad del modelo de la máquina
+C. Una función que mide la velocidad a la que la máquina aprende
+Respuesta: A: Una función que mide la discrepancia entre las predicciones de la máquina y los valores reales
+
+¿Cuál es el objetivo de la regresión logística?
+A. Predecir valores continuos
+B. Predecir valores discretos
+C. Clasificar datos en diferentes categorías
+Respuesta: C: Clasificar datos en diferentes categorías
+
+De las siguientes opciones, ¿qué se puede resolver con la regresión logística?
+A. Regresión lineal
+B. Regresión no lineal
+C. Clasificación binaria y múltiple
+Respuesta: C: Clasificación binaria y múltiple
+
+¿Cuál es la función de pérdida utilizada en la regresión logística?
+A. Entropía cuadrática
+B. Entropía cruzada
+C. Error cuadrático medio
+Respuesta: B: Entropía cruzada
+
+¿Cuál es el objetivo de la regresión lineal?
+A. Predecir valores continuos
+B. Predecir valores discretos
+C. Clasificar datos en diferentes categorías
+Respuesta: A: Predecir valores continuos
+
+¿Cuál es la función de costo utilizada en la regresión lineal?
+A. Error cuadrático medio
+B. Entropía cruzada binaria
+C. Pérdida logarítmica
+Respuesta: A: Error cuadrático medio
+
+¿Cómo se puede evaluar si el modelo de regresión lineal se ajusta adecuadamente a los datos?
+A. A través de la inspección visual de los residuos
+B. A través de la comparación de los valores predichos con los valores reales
+C. A través del cálculo del error cuadrático medio
+Respuesta: C: A través del cálculo del error cuadrático medio
+
